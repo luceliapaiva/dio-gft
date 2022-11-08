@@ -1,7 +1,7 @@
 # dio-gft
 Desafio de Projeto Git/GitHub.
 
-## Site utilizado para baixar o git.
+## Site utilizado para dowload do git.
 https://git-scm.com/
 
 ## GitHub
