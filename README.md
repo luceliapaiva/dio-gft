@@ -1,8 +1,9 @@
-# dio-gft
-Desafio de Projeto Git/GitHub.
+## Desafio de Projeto Git/GitHub.
 
-## Site utilizado para dowload do git.
+Site utilizado para download do git.
 https://git-scm.com/
 
-## GitHub
+GitHub
 No gitHub criei um repositório para utilizar no Bootcamp da Dio  "GFT Quality Assurance para mulheres".
+
+Estarei utilizando o Gitbash.
